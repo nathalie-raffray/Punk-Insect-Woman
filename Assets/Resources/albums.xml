@@ -1,0 +1,30 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<AlbumCollection>
+  <Albums num="1">
+    <Album artist="Alice Coltrane" title="World Galaxy">
+      <NumTracksA>3</NumTracksA>
+      <NumTracksB>2</NumTracksB>
+      <Sprite>worldgalaxy</Sprite>
+      <MusicFolder>WorldGalaxy</MusicFolder>
+      <Label>Impulse!</Label>
+      <Catalogue>AS 9218</Catalogue>
+      <Country>Canada</Country>
+      <Released>1972</Released>
+      <Genre>Jazz</Genre>
+      <Style>Free Jazz, Spritual Jazz, Avant-Garde Jazz, Synth-Harp-Strings Polyphony</Style>
+      <Credits>Arranged By, Orchestrated By, Piano, Organ, Harp, Tambura, Percussion, Producer – Alice Coltrane
+        Bass – Reggie Workman
+        Drums, Percussion – Ben Riley
+        Narrator – Swami Satchidananda (tracks: B1, B2)
+        Strings – Alan Shulman, Arthur Aaron, Avron Coleman, Edward Green, Harry Glickman, Henry Aaron, Irving Spice, Janet Hill, Joan Kalisch, Julien Barber, Ronald Lipscomb, Seymour Miroff, Thomas Nickerson, William Stone
+        Strings, Violin [Solo] – LeRoy Jenkins (tracks: B2)
+        Tenor Saxophone, Pescussion – Frank Lowe
+        Timpani [Tympani] – Elayne Jones
+      </Credits>
+      <Songs>My Favorite Things, Galaxy Around Olodumare, Galaxy In Turiya, Galaxy In Satchidananda, A Love Supreme</Songs>
+      <SongsA>My Favorite Things, Galaxy Around Olodumare, Galaxy In Turiya</SongsA>
+      <SongsB>Galaxy In Satchidananda, A Love Supreme</SongsB>
+      <Notes>Favorite song: Galaxy In Satchidananda</Notes>
+    </Album>
+  </Albums>
+</AlbumCollection>

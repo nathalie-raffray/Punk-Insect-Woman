@@ -1,0 +1,44 @@
+{
+	"convos" : 
+	[{ 
+		"conversationId" : "foundCream",
+		"start" : 
+		{
+			"speaker" : "cat", 
+			"retort" : 
+			[
+				"meow", 
+				"unf", 
+				"go fetch",
+				"you are a narcissist with no grace"
+			], 
+			"answers" : 
+			[
+				{
+					"option" : "shh smush your paws against this window its so cute", 
+					"next" : {
+						"speaker" : "cat", 
+						"retort" :
+						[
+							"your heart is mine to ravish"
+						]
+					}
+				},
+				{
+					"option" : "give me your paws", 
+					"next" : {
+						"speaker" : "cat", 
+						"retort" :
+						[
+							"give me your bentley"
+						]
+					}
+				}
+			]
+		}
+	}]
+
+	
+
+
+}
